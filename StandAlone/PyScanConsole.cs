@@ -1,8 +1,6 @@
 /******************************************************************
-* IBM Confidential
-* OCO Source Materials
-* IBM Rational AppScan Standard Edition
-* (c) Copyright IBM Corp. 2007, 2010 All Rights Reserved.
+* Licensed Materials - Property of HCL
+* (c) Copyright HCL Technologies Ltd. 2015, 2022.
 * 
 * The source code for this program is not published or otherwise
 * divested of its trade secrets, irrespective of what has been
